@@ -86,7 +86,7 @@
       "name": "小猫咪资源"
     },
     "global":{
-      "api":"	https://live.fanmingming.com/tv/m3u/global.m3u",
+      "api":"https://live.fanmingming.com/tv/m3u/global.m3u",
       "name":"Global直播源"
     },
     "PTV(IPV6)":{
