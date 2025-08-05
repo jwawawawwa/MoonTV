@@ -84,6 +84,20 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }
+    },
+    "global":{
+      "api":"	https://live.fanmingming.com/tv/m3u/global.m3u",
+      "name":"Global直播源"
+    },
+    "PTV(IPV6)":{
+      "api":"https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "name":"PTV(IPV6)"
+  },
+    "xiaohezi":{
+      "api":"http://xhztv.top/xhz",
+      "name":"🚀小盒子"
+  },
+    "qixingbaohe":{
+      "api":"https://qixing.myhkw.com/DC.txt",
+      "name":"七星宝盒"
   }
-}
